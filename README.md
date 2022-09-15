@@ -1,8 +1,11 @@
 # Hello World
 Rosa Guerrero, ingeniera en finanzas y estudiante de la Maestría en Ciencia de Datos. Mi pasatiempos favorito es bailar folclore mexicano 
+
 ![](https://media.giphy.com/media/d48u0Wxgx3DbARKo/giphy.gif)
 
 *[Source: GIPHY](https://media.giphy.com/media/d48u0Wxgx3DbARKo/giphy.gif)*
+
+Referencias de este repositorio las encontrarás en este [link](https://github.com/RosaGuerrero05/Hello/blob/main/Docs/Referencias.md)
 
 #Hellooooow
 
